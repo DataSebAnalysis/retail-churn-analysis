@@ -1,5 +1,7 @@
 # Retail Customer Churn Analysis
 
+Tech Stack: Python | MySQL | SQL | Data Modeling | Revenue Segmentation
+
 Dataset: Online Retail II (UCI Repository)
 
 ### Background & Objective
